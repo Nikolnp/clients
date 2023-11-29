@@ -1,4 +1,4 @@
-PS,PS Role,Client,Implementation Type,Date of Assignment,Porting Type,Porting Status,Submission Date,Expected Port Date/Cancellation Date,ORD Number,ORD Count,Involvement End Date,CSM,IS,RC Agent,Country,Additional Notes
-PS001,Project Manager,ClientA,Cloud Migration,2023-01-01,Full Port,In Progress,2023-01-05,2023-02-15,ORD123,1,2023-03-01,John Doe,Infrastructure Specialist,AgentX,USA,"Migrating data to AWS"
-PS002,Developer,ClientB,Software Upgrade,2023-02-01,Partial Port,Completed,2023-02-10,,ORD124,1,2023-03-15,Jane Smith,Software Engineer,AgentY,Canada,"Upgrading to the latest version"
-PS003,System Analyst,ClientC,Data Integration,2023-03-01,Full Port,Not Started,,,ORD125,1,2023-04-01,Bob Johnson,Data Scientist,AgentZ,UK,"Integrating data from various sources"
+PS,PS Role,Client,Implementation Type,Date of Assignment,Porting Type,Porting Status,Submission Date,Expected port date/Cancellation Date,ORD Number,OR count,Involvement End Date,CSM,IS,RC Agent,Country,Additional Notes
+John Doe,Primary,ABC Corp,Basic,2022-01-01,Service Web,In Progress,2022-01-15,2022-02-01,123456,1,2022-03-01,Jane Smith,Mark Johnson,Chris Thompson,USA,Porting in progress
+Alice Johnson,Secondary,XYZ Ltd,Advanced,2022-02-15,Manual Port,Completed,2022-02-20,2022-03-10,789012,2,2022-04-01,David Brown,Susan White,Michael Davis,Canada,Porting completed successfully
+Bob Miller,Primary,123 Industries,Basic,2022-03-10,Service Web,Completed,2022-03-15,2022-04-01,345678,3,2022-05-01,Lisa Wilson,Brian Turner,Karen Johnson,UK,Porting completed with no issues
