@@ -1,7 +1,8 @@
 # Import necessary libraries
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly as px
+#import plotly.express as px
 
 # Load your dataset
 df = pd.read_csv('data.csv')
